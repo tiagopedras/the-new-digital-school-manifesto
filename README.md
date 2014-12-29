@@ -41,5 +41,5 @@ This is a work in progress (both the document and the project itself) and it can
 -----------------------------
 
 ### More information
-Next steps and needs (to be defined)
-Similar and inspirational projects (to be listed)
+* Next steps and needs (to be defined)
+* Similar and inspirational projects (to be listed)
