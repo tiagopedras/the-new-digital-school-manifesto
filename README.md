@@ -15,11 +15,11 @@ This is a work in progress (both the document and the project itself) and it can
 
 ## What it’s not
 * The ordinary school.
-	** Students are guided by teachers, mentors, industry leaders but in the end they have the final word.
-	** Evaluation is done by pears and, even more important, by the student himself, based on he believes is the best path for a career and on how prepared he feels for it.
-	** The community will always input their opinion and needs onto the learning system.
+** Students are guided by teachers, mentors, industry leaders but in the end they have the final word.
+** Evaluation is done by pears and, even more important, by the student himself, based on he believes is the best path for a career and on how prepared he feels for it.
+** The community will always input their opinion and needs onto the learning system.
 * Something confined to 4 walls.
-	** This model is meant to be replicable anywhere in the world thanks to it’s openness and freeform.
+** This model is meant to be replicable anywhere in the world thanks to it’s openness and freeform.
 
 ## Objectives
 * To create a more suited place to learn how to be a digital designer. One that reflects the multitude of areas and skills, the fast and constant pace of evolution of the area, as well as the community's way of being. One that isn’t written in stone and is suited to be adjusted by each individual, and therefore is not validatable by the old evaluation systems.
