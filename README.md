@@ -3,7 +3,7 @@ The New Digital Design School
 
 A student-centered new school based on web and digital design that intends to be open sourced thanks to and for the community.
 
-**Caveat lector**
+### Caveat lector
 This is a work in progress (both the document and the project itself) and it cannot ever get better without feedback. Feel free to suggest changes and additions or contact me directly via twitter (@tiagopedras).
 
 
@@ -40,6 +40,6 @@ This is a work in progress (both the document and the project itself) and it can
 
 -----------------------------
 
-**More information**
+### More information
 Next steps and needs (to be defined)
 Similar and inspirational projects (to be listed)
