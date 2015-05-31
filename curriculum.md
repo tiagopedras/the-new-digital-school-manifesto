@@ -7,25 +7,25 @@ Curriculum - Knowledge Areas
 + Freelancing: How to?
 + Job Appliance: How to?
 + Running a Studio: How to?
-⋅* Mike Monteiro
+ * Mike Monteiro
 + SEO: Strategy
 + Startups: How to?
 + Web Culture
-⋅* Jeremy Keith
+ - Jeremy Keith
 
 ### Creative
 + Copywriting: Intro
-⋅* Kate Kiefer Lee
+ - Kate Kiefer Lee
 + Copywriting: Micro Copy
-⋅* Kate Kiefer Lee
+ - Kate Kiefer Lee
 + Design Thinking
 + Idea Generation
 + Illustration
-⋅* Geri Coady
+ - Geri Coady
 + Interface Design: Forms
 + Interface Design: Intro
 + Interface Design: Web Typography
-⋅* Frank Chimero
+ - Frank Chimero
 + Productivity Techniques
 + UI Mobile Design
 + Video and Motion Design: Intro
@@ -33,7 +33,7 @@ Curriculum - Knowledge Areas
 
 ### Motivation
 + Creative process
-⋅* Simon Collison
+ - Simon Collison
 
 ### Management
 + Online Advertisement
@@ -42,13 +42,13 @@ Curriculum - Knowledge Areas
 
 ### Technical
 + Advanced CSS
-⋅* Chris Coyier
+ - Chris Coyier
 + Frameworks: Bootstrap (CSS)
 + Frameworks: E+commerce
 + Frameworks: Foundation (CSS)
 + Frameworks: jQuery (JS)
 + Frameworks: LESS/SASS (CSS)
-⋅* Jina Bolton
+ - Jina Bolton
 + Frameworks: Wordpress (PHP)
 + Frameworks: Wordpress (PHP)
 + HTML/CSS
@@ -57,8 +57,8 @@ Curriculum - Knowledge Areas
 + Web Development: PHP
 + Web Development: RoR
 + Responsive Web Design
-⋅* Ethan Marcotte
-⋅* Vitally Friedman
+ - Ethan Marcotte
+ - Vitally Friedman
 
 ### UX
 + User Testing
