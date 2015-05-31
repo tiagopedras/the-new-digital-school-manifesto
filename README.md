@@ -1,10 +1,10 @@
-The New Digital Design School
+The New Digital School
 =============================
 
-A student-centered new school based on web and digital design that intends to be open sourced thanks to and for the community.
+A new student-centered school based around web and digital design, that intends to be open sourced thanks to and for the community.
 
 ### Caveat lector
-This is a work in progress (both the document and the project itself) and it cannot ever get better without feedback. Feel free to suggest changes and additions or contact me directly via twitter (@tiagopedras).
+This is a work in progress. Some of these documents might be out of date already and feedback is always very welcome. Feel free to fork and suggest changes or additions.
 
 
 ## What it is
