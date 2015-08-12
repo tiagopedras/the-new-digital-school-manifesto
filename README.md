@@ -10,13 +10,13 @@ This is a work in progress (both the document and the project itself) and it can
 ## What it is
 * A new approach to the educational system of most countries.
 * A more open, more flexible, student-centered way of learning.
-* An institution that focuses more on allowing the student to learn what he wants, the way he wants, rather than teaching formatted sets of knowledge.
-* A hub for the community to expand, grow and prosper alongside with the industry itself
+* An institution that focuses more on allowing the student to learn what ze wants, the way ze wants, rather than teaching formatted sets of knowledge.
+* A hub for the community to expand, grow and prosper alongside the industry itself
 
 ## What it’s not
 * The ordinary school.
  * Students are guided by teachers, mentors, industry leaders but in the end they have the final word.
- * Evaluation is done by pears and, even more important, by the student himself, based on he believes is the best path for a career and on how prepared he feels for it.
+ * Evaluation is done by peers and, even more important, by the student zerself, based on what ze believes is the best path for a career and on how prepared ze feels for it.
  * The community will always input their opinion and needs onto the learning system.
 * Something confined to 4 walls.
  * This model is meant to be replicable anywhere in the world thanks to it’s openness and freeform.
