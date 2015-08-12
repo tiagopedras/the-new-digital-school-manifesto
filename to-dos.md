@@ -4,6 +4,7 @@ Main to-do / Needs and next steps
 ### Financial
 - Funding
 - Advice/guidance
+- Advisory board?
 
 ### Physical
 - A space
@@ -16,7 +17,7 @@ Main to-do / Needs and next steps
 - Mentors
 - Conference lecturers
 
-### Intelectual
-- Main “curriculum”. A repository with a list of possible areas/skills to train
+### Intellectual
+- Main “curriculum.” A repository with a list of possible areas/skills to train
 - Learning materials and exercises
 - Project proposals
