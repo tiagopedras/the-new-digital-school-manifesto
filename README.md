@@ -1,45 +1,46 @@
-The New Digital Design School
+The New Digital School
 =============================
 
-A student-centered new school based on web and digital design that intends to be open sourced thanks to and for the community.
+A new student-centered school for web/digital designers that want an alternative to the traditional higher education systems in most countries. 
 
-### Caveat lector
-This is a work in progress (both the document and the project itself) and it cannot ever get better without feedback. Feel free to suggest changes and additions or contact me directly via twitter (@tiagopedras).
+## Manifest
+The New Digital School (TNDS) is a new approach to the educational system of most countries. Rather than teaching outdated and formatted knowledge, it allows the students to learn what they want, the way they want. Being student-centered makes it more open and flexible to make the best out of each student's unique points.
 
+## Problem
+It's very difficult to find web design education done well. On one hand the web industry is too fast, broad and dynamic for universities and most schools to keep up. The pace of evolution and knowledge diversity are incompatible with the curriculum being taught.
 
-## What it is
-* A new approach to the educational system of most countries.
-* A more open, more flexible, student-centered way of learning.
-* An institution that focuses more on allowing the student to learn what he wants, the way he wants, rather than teaching formatted sets of knowledge.
-* A hub for the community to expand, grow and prosper alongside with the industry itself
+Every professional will tell you that "school won't teach you everything" and that "you must keep learning". And yet schools are still formatting students instead of preparing them for this dynamic future. 
 
-## What it’s not
-* The ordinary school.
- * Students are guided by teachers, mentors, industry leaders but in the end they have the final word.
- * Evaluation is done by pears and, even more important, by the student himself, based on he believes is the best path for a career and on how prepared he feels for it.
- * The community will always input their opinion and needs onto the learning system.
-* Something confined to 4 walls.
- * This model is meant to be replicable anywhere in the world thanks to it’s openness and freeform.
+As the industry grows more demanding with designers and developers, most graduates will tell you they don't feel confident enough to face a job. And truth is companies themselves still end up having to train interns themselves.
 
-## Objectives
-* To create a more suited place to learn how to be a digital designer. One that reflects the multitude of areas and skills, the fast and constant pace of evolution of the area, as well as the community's way of being. One that isn’t written in stone and is suited to be adjusted by each individual, and therefore is not validatable by the old evaluation systems.
-* To promote knowledge and skill learning that is both suited for the student’s tastes as well as for the industry’s needs. By involving the industry soon in the education timeline in order to avoid out-of-date knowledge and useless skill sets, as well as to create networking with students to promote early job opportunities.
+## Solution
+1. *The employers of the future are looking for experience and experiences, not grades or degrees*. Real-life empowering experiences that provide meaningful knowledge to the everyday life. And you can't learn that inside a lab.
 
-## Key players
-* Students (specific document soon)
-* Industry (specific document soon)
-* Community
+So TNDS starts with the end of this lab-like environment a school usually is. It raises it to a studio-like enviroment.
 
-## Key activities
-5 teaching pillars or key activities: classes, workshops, mentoring, conferences and projects. These will have different relevancy percentages throughout the school year.
-* Classes will establish the broad foundations that everyone should know
-* Workshops will be a way to specialise in certain very specific topics
-* Mentoring is the ideal way for students to acquire soft skills that are usually obtained through experience. There should be seasonal mentoring and permanent mentoring (staff)
-* Conferences are going to solidify a web creator's personality traits and share the most up-to-date topics
-* Projects may or not be suggested by companies. May or not be group projects. May or not have a final product. They intend to teach through experience and through being in touch with the users and the industry
+2. *The teacher is no longer the single source of knowledge*. With the web in our pockets we can learn about nuclear physics or Python development anywhere we want. 
+
+TNDS is student-centered and not along the traditional school lines. It's where and how you apply knowledge that's meaningful to be taught.
+
+3. *There are too many topics and soft skills to learn inside a traditional class room*. The current system has curriculum, assessment and a time frame that act "wall out" evolution.
+
+TNDS is open and modular to allow a student to learn how to teach himself and how to keep learning in the future.
+
+4. *Creativity is where evolution is*. By comparing students with each other we're slowly killing their originality and unique traits.
+
+TNDS is moulded to the student, it's interests and strengths. Assessment and validation aren't important. The student passes when the new employer validates him and he gets a job or when he starts his own project or company.
+
+5. *Soft-skills, team work and business skills are often forgotten as it's difficult to teach them formally*.
+
+TNDS is a place that reflects this multitude of skills as well as the industry's way of being. It has a way to promote networking between students, mentors and companies. It acts as a hub for students to expand, grow and prosper alongside with the industry itself.
 
 -----------------------------
 
 ### More information
-* Next steps and needs (to be defined)
-* Similar and inspirational projects (to be listed)
+
+[Find out more](how_it_works.md)
+[Further details](details.md)
+
+
+### Caveat lector
+These documents and the project itself are a work in progress and intend to be an open-sourced initiative. Feel free to suggest changes and additions or contact me directly via twitter (@tiagopedras).
