@@ -41,10 +41,17 @@ TNDS is a place that reflects this multitude of skills as well as the industry's
 
 ### More information
 
-[How it works](how_it_works.md)
+[How it works](how-it-works.md)
+
+[For Students](for-students.md)
+
+[For Industry Partners](for-industry-partners.md)
 
 [Other details](details.md)
 
 
+-----------------------------
+
 ### Caveat lector
-These documents and the project itself are a work in progress and intend to be an open-sourced initiative. Feel free to suggest changes and additions or contact me directly via twitter (@tiagopedras).
+These documents and the project itself are a work in progress and intend to be an open-sourced initiative. 
+Feel free to suggest changes and additions or contact us directly via twitter at [@newdigitschool](https://twitter.com/newdigitschool).

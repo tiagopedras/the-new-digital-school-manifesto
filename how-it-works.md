@@ -20,3 +20,7 @@ When working on real projects for real clients, students are forced to consider 
 At the end the student is going to either land a job, start his own practice as a freelancer/start-up/studio or can simply continue his learning for a few extra months in a seamless way.
 Assessment is done in two ways. Through the company's satisfaction with the student's performance and out of the student's satisfaction and trust in his own abilities.
 What matters after a course is no longer the graduation but the opportunities school bring us. So we intend to promote just that.
+
+-----------------------------
+
+Want to know more about applying to TNDS? Tweet us at [@newdigitschool](https://twitter.com/newdigitschool).

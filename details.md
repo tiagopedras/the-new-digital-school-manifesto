@@ -17,4 +17,6 @@
 * Conferences are going to solidify a web creator's personality traits and share the most up-to-date topics
 * Projects may or not be suggested by companies. May or not be group projects. May or not have a final product. They intend to teach through experience and through being in touch with the users and the industry
 
-More info soon
+-----------------------------
+
+Want to know more about applying to TNDS? Tweet us at [@newdigitschool](https://twitter.com/newdigitschool).
