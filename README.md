@@ -4,23 +4,23 @@ The New Digital School
 A new student-centered school for web/digital designers that want an alternative to the traditional higher education systems in most countries. 
 
 ## Manifest
-The New Digital School (TNDS) is a new approach to the educational system of most countries. Rather than teaching outdated and formatted knowledge, it allows the students to learn what they want, the way they want. Being student-centered makes it more open and flexible to make the best out of each student's unique points.
+The New Digital School (TNDS) is a new approach to the educational system of most countries. Rather than teaching outdated and formatted knowledge, it allows students to learn what they want, the way they want. Being student-centered makes it more open and flexible to make the best out of each student's unique points.
 
 ## Problem
 It's very difficult to find web design education done well. On one hand the web industry is too fast, broad and dynamic for universities and most schools to keep up. The pace of evolution and knowledge diversity are incompatible with the curriculum being taught.
 
-Every professional will tell you that "school won't teach you everything" and that "you must keep learning". And yet schools are still formatting students instead of preparing them for this dynamic future. 
+Every professional will tell you that "school won't teach you everything" and that "you must keep learning". And yet schools are still formatting students instead of preparing them for this dynamic future. Instead of teaching them how to learn.
 
-As the industry grows more demanding with designers and developers, most graduates will tell you they don't feel confident enough to face a job. And truth is companies themselves still end up having to train interns themselves.
+As the industry gets more demanding with designers and developers, most graduates will tell you they don't feel confident enough to face a job. And truth is, companies themselves still end up having to train interns.
 
 ## Solution
-**The employers of the future are looking for experience and experiences, not grades or degrees**. Real-life empowering experiences that provide meaningful knowledge to the everyday life. And you can't learn that inside a lab.
+**The employers of the future are looking for experience and experiences, not grades or degrees**. Real-life empowering experiences that provide meaningful knowledge to the everyday life. And you can't learn that inside a "lab".
 
-So TNDS starts with the end of this lab-like environment a school usually is. It raises it to a studio-like enviroment.
+So TNDS starts by avoiding this sterile lab-like environment a school usually is. It raises it to a studio-like environment.
 
-**The teacher is no longer the single source of knowledge**. With the web in our pockets we can learn about nuclear physics or Python development anywhere we want. 
+**The teacher is no longer the single source of knowledge**. With the web in our pockets we can learn about nuclear physics or Python development anywhere we want. But soft-skills are the real training that only experience will teach us.
 
-TNDS is student-centered and not along the traditional school lines. It's where and how you apply knowledge that's meaningful to be taught.
+TNDS is student-centered and anything like the traditional school. It's where and how you apply knowledge that's meaningful to be taught.
 
 
 **There are too many topics and soft skills to learn inside a traditional class room**. The current system has curriculum, assessment and a time frame that act "wall out" evolution.
