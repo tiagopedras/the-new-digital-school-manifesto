@@ -3,7 +3,7 @@ The New Digital School
 
 A new student-centered school for web/digital designers that want an alternative to the traditional higher education systems in most countries. 
 
-## Manifest
+## Manifesto
 The New Digital School (TNDS) is a new approach to the educational system of most countries. Rather than teaching outdated and formatted knowledge, it allows students to learn what they want, the way they want. Being student-centered makes it more open and flexible to make the best out of each student's unique points.
 
 ## Problem
